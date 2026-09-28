@@ -13,6 +13,7 @@ This repository contains my solutions to the **Selenium and Python automation co
 - Explicit waits (`WebDriverWait`, `ExpectedConditions`)
 - Page Object Model (POM)
 - Test organization with `pytest`
+I want to test changes in branches
 
 ## 🚀 Run the tests
 
@@ -24,3 +25,4 @@ text
 ├── pages/          # Page Object classes
 ├── tests/          # Test scripts
 └── requirements.txt
+```
